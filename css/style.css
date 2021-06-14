@@ -1,0 +1,35 @@
+header {
+    align-items:;
+    background-color: #e5e5e5;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+main{
+    max-width: 1041px;
+    margin: 50px auto; 
+}
+
+section.InfoCat h2 {
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    background-color: #c4c4c4;
+}
+
+footer {
+    width: 1440px;
+    height: 37px;
+    left: 0px;
+    top: 987px;
+    background-color: #005677;
+    background-size:
+}
